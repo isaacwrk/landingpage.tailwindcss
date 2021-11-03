@@ -3,55 +3,49 @@
     <div class="mt-1">
         <Carrousel/>
     </div>
-    <div class="container my-12 mx-auto px-4 md:px-12">
+    <div class="container my-12 mx-auto px-4 md:px-12 font-Poppins">
         <div class="flex flex-wrap -mx-1 lg:-mx-20">
             <div class="w-full overflow-hidden xl:w-1/3">
-                <div class="max-w-sm rounded overflow-hidden shadow-lg">
+                <div class="max-w-sm rounded overflow-hidden shadow-lg hover:border-white cursor-pointer">
                     <img class="w-full h-72	" src="~@/assets/03-card.jpg" alt="Mountain">
                     <div class="px-6 py-4">
                         <div class="font-bold text-xl mb-2">MT-03</div>
                         <p class="text-gray-700 text-base">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+                            Projetado para auxiliar sua performance, o painel da MT-03 é o único da categoria que possui a luz indicativa Shift Light personalizável, que indica o melhor momento para a troca de marchas
                         </p>
                     </div>
                     <div class="px-6 pt-4 pb-2">
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
+                        
                     </div>
                 </div>
             </div>
 
             <div class="w-full overflow-hidden xl:w-1/3">
-                <div class="max-w-sm rounded overflow-hidden shadow-lg">
+                <div class="max-w-sm rounded overflow-hidden shadow-lg hover:border-white cursor-pointer">
                     <img class="w-full h-72	" src="~@/assets/07-card.jpg" alt="Mountain">
                     <div class="px-6 py-4">
                         <div class="font-bold text-xl mb-2">MT-07</div>
-                        <p class="text-gray-700 text-base">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+                        <p class="text-green-100 text-base">
+                            Conhecida pelo DNA “Master of Torque” e motor com a tecnologia Crossplane, de mesma arquitetura e funcionamento da Yamaha YZR-M1 da MotoGP. possui controle, estabilidade e segurança em manobras e frenagens, seja qual for o trajeto.
                         </p>
                     </div>
                     <div class="px-6 pt-4 pb-2">
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
+                        
                     </div>
                 </div>
             </div>
 
-            <div class="w-full overflow-hidden xl:w-1/3 ">
+            <div class="w-full overflow-hidden xl:w-1/3 hover:border-white cursor-pointer">
                 <div class="max-w-sm rounded overflow-hidden shadow-lg">
                     <img class="w-full h-72	" src="~@/assets/09-card.jpg"  alt="Mountain">
                     <div class="px-6 py-4">
                         <div class="font-bold text-xl mb-2">MT-09</div>
                         <p class="text-gray-700 text-base">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+                            Com apenas 193 kg, 115 cv e 8,92 kgf.m de torque, a MT-09 surpreende em todos os detalhes. Seu motor crossplane tricilíndrico de 847 cc proporciona acelerações e retomadas rápidas de uma autêntica Master of Torque (MT).
                         </p>
                     </div>
                     <div class="px-6 pt-4 pb-2">
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-                        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
+                        
                     </div>
                 </div>
             </div>

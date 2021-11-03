@@ -1,5 +1,7 @@
 <template>
-    <LandingPage/>
+    <div id="app" class="base-color">
+        <LandingPage/>
+    </div>
 </template>
 
 <script lang="ts">
@@ -16,4 +18,7 @@ export default class App extends Vue {}
 </script>
 
 <style>
+#app{
+    color: white;
+}
 </style>
