@@ -6,8 +6,8 @@
     <div class="container my-12 mx-auto px-4 md:px-12 font-Poppins">
         <div class="flex flex-wrap -mx-1 lg:-mx-20">
             <div class="w-full overflow-hidden xl:w-1/3">
-                <div class="max-w-sm rounded overflow-hidden shadow-lg hover:border-white cursor-pointer">
-                    <img class="w-full h-72	" src="~@/assets/03-card.jpg" alt="Mountain">
+                <div class="max-w-sm rounded overflow-hidden shadow-lg hover:border-white cursor-pointer border-white">
+                    <img class="w-full h-72	" src="~@/assets/03-card.jpg" alt="Card MT-03 frontal">
                     <div class="px-6 py-4">
                         <div class="font-bold text-xl mb-2">MT-03</div>
                         <p class="text-gray-700 text-base">
@@ -22,7 +22,7 @@
 
             <div class="w-full overflow-hidden xl:w-1/3">
                 <div class="max-w-sm rounded overflow-hidden shadow-lg hover:border-white cursor-pointer">
-                    <img class="w-full h-72	" src="~@/assets/07-card.jpg" alt="Mountain">
+                    <img class="w-full h-72	" src="~@/assets/07-card.jpg" alt="Card MT-07 frontal">
                     <div class="px-6 py-4">
                         <div class="font-bold text-xl mb-2">MT-07</div>
                         <p class="text-green-100 text-base">
@@ -37,7 +37,7 @@
 
             <div class="w-full overflow-hidden xl:w-1/3 hover:border-white cursor-pointer">
                 <div class="max-w-sm rounded overflow-hidden shadow-lg">
-                    <img class="w-full h-72	" src="~@/assets/09-card.jpg"  alt="Mountain">
+                    <img class="w-full h-72	" src="~@/assets/09-card.jpg"  alt="Card MT-09 frontal">
                     <div class="px-6 py-4">
                         <div class="font-bold text-xl mb-2">MT-09</div>
                         <p class="text-gray-700 text-base">

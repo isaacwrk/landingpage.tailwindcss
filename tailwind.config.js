@@ -2,14 +2,15 @@ module.exports = {
     purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
     darkMode: false, // or 'media' or 'class'
     theme: {
-        extend: {},
-        colors: {
-            "bookmark-purple": "#5267DF",
-            "b-red": "#FA5959",
-            "bookmark-blue": "#242A45",
-            "bookmark-grey": "#9194A2",
-            "text-personal-white": "#f7f7f7",
-            
+        extend: {
+            colors: {
+                "bookmark-purple": "#5267DF",
+                "b-red": "#FA5959",
+                "bookmark-blue": "#242A45",
+                "bookmark-grey": "#9194A2",
+                "text-personal-white": "#f7f7f7",
+                
+            },
         },
         container:{
             center:true,
