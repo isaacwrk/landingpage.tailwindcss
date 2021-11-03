@@ -4,9 +4,9 @@
             <nav class="container flex items-center py-4">
                 <div class="py-1 ml-1 w-32"><img src="../assets/yamahalogo.svg" alt="" /></div>
                 <ul class="hidden sm:flex flex-1 justify-end items-center gap-12 uppercase text-xs">
-                    <li class="cursor-pointer text-white hover:text-red-200">Linha MT</li>
-                    <li class="cursor-pointer text-white hover:text-red-200 ">Sobre</li>
-                    <li class="cursor-pointer text-white hover:text-red-200">Contato</li>
+                    <li class="cursor-pointer text-white hover:text-red-400">Linha MT</li>
+                    <li class="cursor-pointer text-white hover:text-red-400 ">Sobre</li>
+                    <li class="cursor-pointer text-white hover:text-red-400" href="">Contato</li>
                     <button type="button" class="bg-b-red hover:bg-red-500 hover:text-white rounded-md px-7 py-3 uppercase">Login</button>
                 </ul>
                 <div class="flex sm:hidden flex-1 justify-end">

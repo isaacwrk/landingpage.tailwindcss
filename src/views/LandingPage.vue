@@ -67,18 +67,20 @@
             </p>
         </div>
     </div>
-
+    <Footer/>
 </template>
 
 <script lang='ts'>
 import { defineComponent } from 'vue';
 import NavBar from '@/components/Nav.vue';
 import Carrousel from '@/components/Carrousel.vue';
+import Footer from '@/components/Footer.vue';
 
 const landingPage = defineComponent({
     components:{
         NavBar,
-        Carrousel
+        Carrousel,
+        Footer
     }
 });
 
