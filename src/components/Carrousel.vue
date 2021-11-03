@@ -5,7 +5,8 @@
             <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
             <div class="carousel-item absolute opacity-0" style="height:85vh;">
                 <div class="max-w-full">
-                    <img src="~@/assets/w-mt03.jpg" alt="">
+                    <img src="~@/assets/w-mt03.jpg" alt="Wallpaper MT-03 com piloto">
+                    <div class="text">Caption Two</div>
                 </div>
             </div>
             <label for="carousel-3" class="prev control-1 w-10 h-10 ml-2 md:ml-10 absolute cursor-pointer hidden text-3xl font-bold text-black hover:text-white rounded-full bg-white hover:bg-blue-700 leading-tight text-center z-10 inset-y-0 left-0 my-auto">‹</label>
@@ -15,7 +16,7 @@
             <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
             <div class="carousel-item absolute opacity-0" style="height:85vh;">
                 <div class="max-w-full">
-                    <img src="~@/assets/w-mt07.jpg" alt="">
+                    <img src="~@/assets/w-mt07.jpg" alt="Wallpaper MT-07 com piloto">
                 </div>
             </div>
             <label for="carousel-1" class="prev control-2 w-10 h-10 ml-2 md:ml-10 absolute cursor-pointer hidden text-3xl font-bold text-black hover:text-white rounded-full bg-white hover:bg-blue-700 leading-tight text-center z-10 inset-y-0 left-0 my-auto">‹</label>
@@ -25,7 +26,7 @@
             <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
             <div class="carousel-item absolute opacity-0" style="height:85vh;">
                 <div class="max-w-full">
-                    <img src="~@/assets/w-mt09.jpg" alt="">
+                    <img src="~@/assets/w-mt09.jpg" alt="Wallpaper MT-09 com piloto">
                 </div>
             </div>
             <label for="carousel-2" class="prev control-3 w-10 h-10 ml-2 md:ml-10 absolute cursor-pointer hidden text-3xl font-bold text-black hover:text-white rounded-full bg-white hover:bg-blue-700 leading-tight text-center z-10 inset-y-0 left-0 my-auto">‹</label>

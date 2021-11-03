@@ -2,7 +2,7 @@
     <body class="font-Poppins">
         <header>
             <nav class="container flex items-center py-4 mt-1 sm:mt-1">
-                <div class="py-1 ml-1 w-56"><img src="../assets/yamahalogo.svg" alt="" /></div>
+                <div class="py-1 ml-1 w-32"><img src="../assets/yamahalogo.svg" alt="" /></div>
                 <ul class="hidden sm:flex flex-1 justify-end items-center gap-12 text-bookmark-blue uppercase text-xs">
                     <li class="cursor-pointer">Features</li>
                     <li class="cursor-pointer">Pricing</li>
