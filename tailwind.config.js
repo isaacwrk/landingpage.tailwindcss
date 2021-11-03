@@ -11,6 +11,9 @@ module.exports = {
                 "text-personal-white": "#f7f7f7",
                 
             },
+            fontFamily: {
+                sans: ['Poppins']
+            },
         },
         container:{
             center:true,
