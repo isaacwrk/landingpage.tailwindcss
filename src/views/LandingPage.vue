@@ -3,7 +3,9 @@
     <div class="mt-1">
         <Carrousel/>
     </div>
-    <div class="container my-12 mx-auto px-4 md:px-12 font-Poppins">
+
+    <div class="container my-12 h-screen mx-auto px-4 md:px-12 font-Poppins">
+        <h1 class="text-white bold text-center mb-1">Conheça a linha Master of Torque</h1>
         <div class="flex flex-wrap -mx-1 lg:-mx-20">
             <div class="w-full overflow-hidden xl:w-1/3">
                 <div class="max-w-sm rounded overflow-hidden shadow-lg  border-2 border-white cursor-pointer">
