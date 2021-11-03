@@ -18,7 +18,4 @@ export default class App extends Vue {}
 </script>
 
 <style>
-#app{
-    color: white;
-}
 </style>

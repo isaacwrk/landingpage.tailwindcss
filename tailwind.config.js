@@ -20,9 +20,6 @@ module.exports = {
                 xl:"1124px",
                 "2xl":"1124px"
             },
-            fontFamily:{
-                Poppins:["Poppins, sans-serif"]
-            }
         }
     },
     variants: {
